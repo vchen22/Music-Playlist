@@ -1,5 +1,4 @@
-Program Description
-I am creating a music playlist using the
+Program Description: I am creating a music playlist using the
 doubly linked data structure. By using a doubly linked data structure, I can
 connect all the songs to a respective place, thus it makes an order/list. 
 
